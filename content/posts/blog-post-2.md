@@ -1,5 +1,5 @@
 ---
-title: "News Post 1"
+title: "blog post 2`"
 date: 2024-08-06T11:10:36+08:00
 draft: false
 language: en
@@ -8,8 +8,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, od
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
 author: Kepala Desa Blimbing
 authorimage: ../assets/images/global/author.webp
-categories: News
-tags: News
+categories: Blog
+tags: Blog
 ---
 __Advertisement :smile:__
 
@@ -255,3 +255,4 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+
