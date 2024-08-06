@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://abdi-ing-panjalu.github.io/website-blimbing/'
 title: 'Desa Wisata Blimbing'
 languageCode: en-us
 DefaultContentLanguage: en
@@ -82,16 +82,16 @@ params:
   social_media:
     github:
       enabled: false
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/dundorma'
     facebook:
       enabled: false
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://facebook.com/'
     instagram:
       enabled: false
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://instagram.com/dundorma'
     twitter:
       enabled: false
-      url: 'https://twitter.com/nusserstudios'
+      url: 'https://twitter.com/catwavess'
     
 
 menu:
