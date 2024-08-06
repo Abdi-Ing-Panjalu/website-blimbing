@@ -15,14 +15,13 @@
                     </p>
                 </div>
                 <div class="col-span-6">
-                    {{ $hero := resources.GetMatch "images/pages/tailbliss-rocket-indigo.png" }}
+                    {{ $heroimg := resources.Get .Site.Params.Hero.Image }}
 
-                    {{ $thumb := ($hero.Fill "400x400 webp q90") }}
-                    {{ $large := ($hero.Fill "576x576 webp q90") }}
-
-                    <img srcset="
-                        {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                        {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
+                    {{ with $heroimg }}
+                    {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
+                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg"/>
+                    {{ end }}
+                    {{ end }}
                 </div>
             </div>
         </div>

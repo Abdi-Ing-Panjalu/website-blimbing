@@ -54,6 +54,8 @@ params:
   disable_theme_toggle: true
   disable_stay_uptodate: true
 
+  hero:
+    image: "images/pages/tailbliss-rocket-indigo.png"
   p1:
     heading: "Our mission"
     image: "images/pages/our-mission.png"
