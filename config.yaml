@@ -55,7 +55,7 @@ params:
   disable_stay_uptodate: true
 
   hero:
-    image: "images/pages/tailbliss-rocket-indigo.png"
+    image: "images/pages/hero.jpeg"
   p1:
     heading: "Our mission"
     image: "images/pages/our-mission.png"
