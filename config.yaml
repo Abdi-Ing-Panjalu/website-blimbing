@@ -50,7 +50,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Blimbing"
-  description: "Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod."
+  description: "Desa Blimbing adalah Desa Blimbing di Kecamatan Mojo, Kediri, memiliki populasi sekitar 4.094 jiwa yang tersebar di empat dusun. Selain populasi yang besar, desa ini juga dikenal dengan perkebunan durian yang subur, menghasilkan durian berkualitas tinggi yang menjadi daya tarik wisata lokal. Oleh karena itu, Desa ini memiliki destinasi wisata yang bernama Taman Bukit Duraemont, yang merupakan kependekan dari Durian Asli Enak Montong Tempatan. Selain durian, petani di desa ini juga menanam cengkeh yang menjadi sumber penghasilan utama, meskipun mereka menghadapi tantangan seperti fluktuasi harga dan serangan hama. Dukungan dari pemerintah dan inovasi dalam pertanian membantu petani mengoptimalkan hasil panen dan menjaga tradisi pertanian di desa ini."
   disable_theme_toggle: true
   disable_stay_uptodate: true
 
@@ -58,22 +58,10 @@ params:
     image: "images/pages/sidedecor.png"
   hero:
     image: "images/pages/hero.jpeg"
-  p1:
-    heading: "Our mission"
-    image: "images/pages/our-mission.png"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
-  p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
-    image: "images/pages/hacktoberfest.jpg"
-    content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
   p4:
-    heading: "From the blog"
+    heading: "Artikel dan Blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Berikut adalah artikel dan blog yang telah disusun oleh warga Desa Blimbing"
   p5:
     heading: "Stay Up to Date"
     content:
