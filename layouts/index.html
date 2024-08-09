@@ -8,7 +8,7 @@
             <img imgh src="{{ .RelPermalink }}"  alt="TailBliss Hero" class="object-cover w-full h-full brightness-50"/>
             {{ end }}
           </div>
-          <div class="text-center text-[300px] md:text-[60px] drop-shadow-2xl text-white font-medium p-5 sm:p-0 z-10">
+          <div class="text-center text-[30px] md:text-[60px] drop-shadow-2xl text-white font-medium p-5 sm:p-0 z-10">
             <h2>Selamat Datang</h2>
             <h2
               class="text-[30px] md:text-[80px]"
@@ -28,8 +28,20 @@
           Segera Hadir
         </div>
       </section>
+
+    {{ $sidedecor := resources.Get .Site.Params.Decor.Image }}
+    {{ with $sidedecor }}
+    <div
+        class="w-[31.1px] sm:w-[46.65px] md:w-[62.2px] absolute h-full bg-cover top-0 left-[-13px]"
+        style="background-image: url('{{ .RelPermalink }}');"
+    ></div>
+    <div
+        class="w-[31.1px] sm:w-[46.65px] md:w-[62.2px] absolute h-full bg-cover top-0 right-[-13px] scale-[-100%]"
+        style="background-image: url('{{ .RelPermalink }}');"
+    ></div>
+    {{ end }}
 </main>
-<main>
+<main class="bg-white flex flex-col justify-center items-center relative overflow-x-hidden w-full py-20 overflow-y-hidden">
     <div class="bg-white dark:bg-gray-900">
         <div class="max-w-screen-xl px-4 py-8 mx-auto">
             <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
@@ -227,6 +239,17 @@
         </div>
     </div>
 
+    {{ $sidedecor := resources.Get .Site.Params.Decor.Image }}
+    {{ with $sidedecor }}
+    <div
+        class="w-[31.1px] sm:w-[46.65px] md:w-[62.2px] absolute h-full bg-cover top-0 left-[-13px]"
+        style="background-image: url('{{ .RelPermalink }}');"
+    ></div>
+    <div
+        class="w-[31.1px] sm:w-[46.65px] md:w-[62.2px] absolute h-full bg-cover top-0 right-[-13px] scale-[-100%]"
+        style="background-image: url('{{ .RelPermalink }}');"
+    ></div>
+    {{ end }}
 
 </main>
 {{ end }}

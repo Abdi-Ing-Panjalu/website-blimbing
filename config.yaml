@@ -54,6 +54,8 @@ params:
   disable_theme_toggle: true
   disable_stay_uptodate: true
 
+  decor:
+    image: "images/pages/sidedecor.png"
   hero:
     image: "images/pages/hero.jpeg"
   p1:
