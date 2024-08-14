@@ -7,6 +7,8 @@ description: Tentang Desa Blimbing
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
+![MapBlimbing](https://i.imgur.com/Sx1sYuf.png)
+
 ## Profil Demografi Desa Blimbing, Mojo, Kediri
 
 Desa Blimbing, yang terletak di Kecamatan Mojo, Kabupaten Kediri, merupakan salah satu desa dengan populasi yang cukup besar. Populasi Desa Blimbing tersebar di empat dusun, yaitu Blimbing, Candilung, Jethi, dan Tumpak Ampel. Berdasarkan data terkini, jumlah total penduduk di Desa Blimbing mencapai 4.094 jiwa. Dusun Blimbing menjadi dusun dengan populasi tertinggi, dihuni oleh 1.048 warga. Dusun ini sekaligus menjadi dusun utama di Desa Blimbing. Populasi terbanyak kedua ditempati oleh Dusun Candilung dengan 1.029 penduduk. Posisi berikutnya yaitu Dusun Jethi, dengan populasi 1.010 jiwa, dan Dusun Tumpak Ampel, yang memiliki 1007 penduduk. Masing-masing dusun ini tidak hanya berbeda dalam jumlah penduduk, tetapi juga dalam karakteristik sosial dan ekonomi yang unik, yang semuanya berkontribusi terhadap kekayaan budaya dan kehidupan sehari-hari di Desa Blimbing.
