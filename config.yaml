@@ -62,14 +62,6 @@ params:
     heading: "Artikel dan Blog"
     content:
       - text: "Berikut adalah artikel dan blog yang telah disusun oleh warga Desa Blimbing"
-  p5:
-    heading: "Stay Up to Date"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
-    action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
 
   social_media:
     github:
